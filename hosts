@@ -59,7 +59,12 @@
 2606:50c0:8000::154            raw.github.com
 # No resolution for git-server.com git-server.com
 140.82.112.3                   gist.github.com
+140.82.112.3                   octocaptcha.com
 140.82.112.4                   octocaptcha.com
+20.248.137.48                  octocaptcha.com
+20.205.243.166                 octocaptcha.com
+20.27.177.113                  octocaptcha.com
+20.248.137.48                  octocaptcha.com
 140.82.114.17                  help.github.com
 140.82.114.26                  live.github.com
 140.82.112.17                  github.community
@@ -436,12 +441,6 @@
 104.16.249.249    one.one.one.one
 104.16.248.249    cloudflare-dns.com
 104.16.249.249    cloudflare-dns.com
-
-140.82.112.3     octocaptcha.com
-20.248.137.48    octocaptcha.com
-20.205.243.166   octocaptcha.com
-20.27.177.113    octocaptcha.com
-20.248.137.48    octocaptcha.com
 
 172.67.217.41     legacyupdate.net
 104.21.70.3       legacyupdate.net
