@@ -1,3 +1,24 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
 20.190.151.9                   login.live.com
 20.190.151.67                  login.live.com
 20.190.151.8                   login.live.com
@@ -100,11 +121,37 @@
 185.199.108.154	github.githubassets.com
 185.199.111.154	github.githubassets.com
 121.194.11.73	www.bilibili.com
+157.148.134.12	www.bilibili.com
+157.148.134.13	www.bilibili.com
+157.148.134.11	www.bilibili.com
 121.194.11.73	api.bilibili.com
+157.148.134.12	api.bilibili.com
+157.148.134.13	api.bilibili.com
+157.148.134.11	api.bilibili.com
 121.194.11.73	api.vc.bilibili.com
+157.148.134.12	api.vc.bilibili.com
+157.148.134.13	api.vc.bilibili.com
+157.148.134.11	api.vc.bilibili.com
 121.194.11.73	message.bilibili.com
+157.148.134.12	message.bilibili.com
+157.148.134.13	message.bilibili.com
+157.148.134.11	message.bilibili.com
 121.194.11.73	t.bilibili.com
+157.148.134.12	t.bilibili.com
+157.148.134.13	t.bilibili.com
+157.148.134.11	t.bilibili.com
 121.194.11.73	space.bilibili.com
+157.148.134.12	space.bilibili.com
+157.148.134.13	space.bilibili.com
+157.148.134.11	space.bilibili.com
+121.194.11.73	passport.bilibili.com
+157.148.134.12	passport.bilibili.com
+157.148.134.13	passport.bilibili.com
+157.148.134.11	passport.bilibili.com
+121.194.11.73	manga.bilibili.com
+157.148.134.12	manga.bilibili.com
+157.148.134.13	manga.bilibili.com
+157.148.134.11	manga.bilibili.com
 185.199.109.153	s.xmcp.ltd
 185.199.108.153	s.xmcp.ltd
 185.199.111.153	s.xmcp.ltd
@@ -129,6 +176,29 @@
 58.205.214.150	upos-sz-mirrorcoso1.bilivideo.com
 219.154.4.115	xy219x154x4x115xy.mcdn.bilivideo.cn
 218.60.18.6	cn-lnsy-cu-01-06.bilivideo.com
+121.31.230.232	upos-sz-mirrorali.bilivideo.com
+121.31.230.230	upos-sz-mirrorali.bilivideo.com
+121.31.230.234	upos-sz-mirrorali.bilivideo.com
+121.31.230.228	upos-sz-mirrorali.bilivideo.com
+121.31.230.229	upos-sz-mirrorali.bilivideo.com
+121.31.230.233	upos-sz-mirrorali.bilivideo.com
+121.31.230.231	upos-sz-mirrorali.bilivideo.com
+211.91.64.87	upos-sz-mirroralib.bilivideo.com
+211.91.64.89	upos-sz-mirroralib.bilivideo.com
+211.91.64.91	upos-sz-mirroralib.bilivideo.com
+211.91.64.79	upos-sz-mirroralib.bilivideo.com
+211.91.64.81	upos-sz-mirroralib.bilivideo.com
+211.91.64.92	upos-sz-mirroralib.bilivideo.com
+211.91.64.90	upos-sz-mirroralib.bilivideo.com
+211.91.64.82	upos-sz-mirroralib.bilivideo.com
+58.205.209.183	upos-sz-mirroralib.bilivideo.com
+58.205.209.182	upos-sz-mirroralib.bilivideo.com
+58.205.209.185	upos-sz-mirroralib.bilivideo.com
+58.205.209.184	upos-sz-mirroralib.bilivideo.com
+58.205.209.179	upos-sz-mirroralib.bilivideo.com
+58.205.209.181	upos-sz-mirroralib.bilivideo.com
+58.205.209.180	upos-sz-mirroralib.bilivideo.com
+58.205.209.186	upos-sz-mirroralib.bilivideo.com
 106.38.242.116	s1.hdslb.com
 106.38.242.113	s1.hdslb.com
 121.194.7.13	i0.hdslb.com
@@ -163,6 +233,82 @@
 58.205.209.186	www.acfun.cn
 58.205.209.182	www.acfun.cn
 58.205.209.180	www.acfun.cn
+58.205.209.179	cdn.aixifan.com
+58.205.209.182	cdn.aixifan.com
+58.205.209.185	cdn.aixifan.com
+58.205.209.186	cdn.aixifan.com
+58.205.209.183	cdn.aixifan.com
+58.205.209.181	cdn.aixifan.com
+58.205.209.184 	cdn.aixifan.com
+58.205.209.180	cdn.aixifan.com
+39.106.233.180	apilog-web.acfun.cn
+119.188.120.230	ali-imgs.acfun.cn
+121.194.7.228	ali-imgs.acfun.cn
+121.194.7.231	ali-imgs.acfun.cn
+121.194.7.12	ali-imgs.acfun.cn
+121.194.7.227	ali-imgs.acfun.cn
+121.194.7.14	ali-imgs.acfun.cn
+121.194.7.13	ali-imgs.acfun.cn
+121.194.7.230	ali-imgs.acfun.cn
+121.194.7.229	ali-imgs.acfun.cn
+58.205.209.185	ali-video.acfun.cn
+58.205.209.183	ali-video.acfun.cn
+58.205.209.180	ali-video.acfun.cn
+58.205.209.181	ali-video.acfun.cn
+58.205.209.179	ali-video.acfun.cn
+58.205.209.186	ali-video.acfun.cn
+58.205.209.182	ali-video.acfun.cn
+58.205.209.184	ali-video.acfun.cn
+116.136.170.218	h1.static.yximgs.com
+59.83.215.118	h1.static.yximgs.com
+211.93.242.56	h1.static.yximgs.com
+218.12.86.37	h1.static.yximgs.com
+59.83.215.227	h1.static.yximgs.com
+59.83.215.220	h1.static.yximgs.com
+59.83.215.132	h1.static.yximgs.com
+14.205.73.75	h1.static.yximgs.com
+59.83.215.91	h1.static.yximgs.com
+211.93.242.61	h1.static.yximgs.com
+61.54.94.144	h1.static.yximgs.com
+123.138.255.120	h1.static.yximgs.com
+59.83.215.224	h1.static.yximgs.com
+58.205.209.179	cdnfile.aixifan.com
+58.205.209.183	cdnfile.aixifan.com
+58.205.209.181	cdnfile.aixifan.com
+58.205.209.185	cdnfile.aixifan.com
+58.205.209.180	cdnfile.aixifan.com
+58.205.209.184	cdnfile.aixifan.com
+58.205.209.182	cdnfile.aixifan.com
+58.205.209.186	cdnfile.aixifan.com
+103.107.219.22	log-sdk.ksapisrv.com
+103.107.218.234	log-sdk.ksapisrv.com
+42.56.81.117	tx-free-imgs2.acfun.cn
+59.83.215.132	tx-free-imgs2.acfun.cn
+59.83.215.91	tx-free-imgs2.acfun.cn
+59.83.215.224	tx-free-imgs2.acfun.cn
+59.83.215.227	tx-free-imgs2.acfun.cn
+61.243.158.71	tx-free-imgs2.acfun.cn
+42.236.89.133	tx-free-imgs2.acfun.cn
+36.248.43.189	tx-free-imgs2.acfun.cn
+218.12.86.37	tx-free-imgs2.acfun.cn
+218.12.86.50	tx-free-imgs2.acfun.cn
+59.83.215.118	tx-free-imgs2.acfun.cn
+61.54.7.117	tx-free-imgs2.acfun.cn
+61.54.7.222	tx-free-imgs2.acfun.cn
+59.83.215.220	tx-free-imgs2.acfun.cn
+58.205.214.156	tx-safety-video.acfun.cn
+58.205.214.153	tx-safety-video.acfun.cn
+103.107.219.38	wlog.kuaishou.com
+103.102.202.23	wlog.kuaishou.com
+103.102.200.38	wlog.kuaishou.com
+103.102.202.24	wlog.kuaishou.com
+39.105.227.129	id.app.acfun.cn
+39.107.146.21	id.app.acfun.cn
+39.106.233.111	id.app.acfun.cn
+103.102.202.118	ksurl.cn
+103.102.200.16	ksurl.cn
+103.102.202.108	ksurl.cn
+103.102.202.158	ksurl.cn
 172.67.217.41	legacyupdate.net
 104.21.70.3	legacyupdate.net
 104.17.113.188	legacyupdate.net
