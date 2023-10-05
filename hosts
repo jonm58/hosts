@@ -112,13 +112,9 @@
 13.107.4.50                    dl.delivery.mp.microsoft.com
 2a01:111:2003::50              dl.delivery.mp.microsoft.com
 2001:1900:2326:7007::1fe  dl.delivery.mp.microsoft.com
-
 2001:1900:2326:7029::1fe  dl.delivery.mp.microsoft.com
-
 001:1900:2320:3009::1fe  dl.delivery.mp.microsoft.com
-
 2001:1900:2326:700f::1fe  dl.delivery.mp.microsoft.com
-
 2001:1900:2326:2e1b::1fe  dl.delivery.mp.microsoft.com
 23.218.216.5                   assets1.xboxlive.cn
 23.218.216.21                  assets1.xboxlive.cn
@@ -145,7 +141,6 @@
 2600:1408:c400:2e::17de:411    assets2.xboxlive.cn
 2600:1408:c400:2e::17de:408    assets2.xboxlive.cn
 2a02:26f0:e8::210:2219  assets2.xboxlive.cn
-
 2a02:26f0:e8::6856:6e11  assets2.xboxlive.cn
 2402:f000:1:416:101:6:6:6	dns.tuna.tsinghua.edu.cn
 101.6.6.6	dns.tuna.tsinghua.edu.cn
