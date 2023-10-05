@@ -1,5 +1,13 @@
+204.79.197.200	bing.com
+13.107.21.200	bing.com
+2620:1ec:c11::200	bing.com
 204.79.197.200	cn.bing.com
 13.107.21.200	cn.bing.com
+2620:1ec:c11::200	cn.bing.com
+2600:140b:2::686d:8189	cn.bing.com
+2600:140b:2::686d:8172	cn.bing.com
+2a02:26f0:a1::5c7a:3663	cn.bing.com
+2a02:26f0:a1::5f65:8f48	cn.bing.com
 204.79.197.200	www.bing.com
 13.107.21.200	www.bing.com
 2600:140b:2::686d:8189	www.bing.com
@@ -620,4 +628,6 @@
 104.16.124.96	content.legacyupdate.net
 104.16.44.99	content.legacyupdate.net
 104.16.45.99	content.legacyupdate.net
+
+
 
