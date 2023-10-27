@@ -1,43 +1,102 @@
-182.89.194.248"
-    },
-    {
-      "name": "s1.hdslb.com.w.kunlunar.com.",
-      "type": 1 /* A */,
-      "TTL": 120,
-      "data": "182.89.194.238"
-    },
-    {
-      "name": "s1.hdslb.com.w.kunlunar.com.",
-      "type": 1 /* A */,
-      "TTL": 120,
-      "data": "182.89.194.239"
-    },
-    {
-      "name": "s1.hdslb.com.w.kunlunar.com.",
-      "type": 1 /* A */,
-      "TTL": 120,
-      "data": "182.89.194.240"
-    },
-    {
-      "name": "s1.hdslb.com.w.kunlunar.com.",
-      "type": 1 /* A */,
-      "TTL": 120,
-      "data": "182.89.194.241"
-    },
-    {
-      "name": "s1.hdslb.com.w.kunlunar.com.",
-      "type": 1 /* A */,
-      "TTL": 120,
-      "data": "182.89.194.242"
-    },
-    {
-      "name": "s1.hdslb.com.w.kunlunar.com.",
-      "type": 1 /* A */,
-      "TTL": 120,
-      "data": "182.89.194.243"
-    },
-    {
-      "name": "s1.hdslb.com.w.kunlunar.com.",
-      "type": 1 /* A */,
-      "TTL": 120,
-      "data": "182.89.194.244
+182.89.194.248    s1.hdslb.com
+182.89.194.238    s1.hdslb.com
+182.89.194.239    s1.hdslb.com
+182.89.194.240    s1.hdslb.com
+182.89.194.241    s1.hdslb.com
+182.89.194.242    s1.hdslb.com
+182.89.194.243    s1.hdslb.com
+182.89.194.244    s1.hdslb.com
+240e:97d:2008:402::42    s1.hdslb.com
+240e:97d:2008:402::43    s1.hdslb.com
+240e:97d:10:1404::53    s1.hdslb.com
+240e:97d:10:1404::55    s1.hdslb.com
+240e:97c:1c:400::67    s1.hdslb.com
+240e:97c:1c:400::6b    s1.hdslb.com
+171.39.5.53    s2.hdslb.com
+171.39.5.48    s2.hdslb.com
+171.39.5.47    s2.hdslb.com
+171.39.5.49    s2.hdslb.com
+171.39.5.51    s2.hdslb.com
+171.39.5.52    s2.hdslb.com
+171.39.5.50    s2.hdslb.com
+240e:97d:10:1404::55    s2.hdslb.com
+240e:97c:1c:400::67    s2.hdslb.com
+240e:97c:1c:400::6b    s2.hdslb.com
+240e:97d:2008:402::42    s2.hdslb.com
+240e:97d:2008:402::43    s2.hdslb.com
+240e:97d:10:1404::53    s2.hdslb.com
+157.148.134.13    www.bilibili.com
+157.148.134.11    www.bilibili.com
+157.148.134.12    www.bilibili.com
+240e:97d:2000:c0e::34    www.bilibili.com
+240e:97d:10:1402:0:1:1:38    www.bilibili.com
+240e:97d:10:1402:0:1:1:39    www.bilibili.com
+240e:97d:10:1402:0:1:1:40    www.bilibili.com
+240e:97d:10:1402:0:1:1:41    www.bilibili.com
+240e:97d:10:1402:0:1:1:42    www.bilibili.com
+240e:97d:2000:c0e::30"    www.bilibili.com
+240e:97d:2000:c0e::31    www.bilibili.com
+157.148.134.13    t.bilibili.com
+157.148.134.11    t.bilibili.com
+157.148.134.12    t.bilibili.com
+240e:97d:2000:c0e::34    t.bilibili.com
+240e:97d:10:1402:0:1:1:38    t.bilibili.com
+240e:97d:10:1402:0:1:1:39    t.bilibili.com
+240e:97d:10:1402:0:1:1:40    t.bilibili.com
+240e:97d:10:1402:0:1:1:41    t.bilibili.com
+240e:97d:10:1402:0:1:1:42    t.bilibili.com
+240e:97d:2000:c0e::30"    t.bilibili.com
+240e:97d:2000:c0e::31    t.bilibili.com
+157.148.134.13    message.bilibili.com
+157.148.134.11    message.bilibili.com
+157.148.134.12    message.bilibili.com
+240e:97d:2000:c0e::34    message.bilibili.com
+240e:97d:10:1402:0:1:1:38    message.bilibili.com
+240e:97d:10:1402:0:1:1:39    message.bilibili.com
+240e:97d:10:1402:0:1:1:40    message.bilibili.com
+240e:97d:10:1402:0:1:1:41    message.bilibili.com
+240e:97d:10:1402:0:1:1:42    message.bilibili.com
+240e:97d:2000:c0e::30"    message.bilibili.com
+240e:97d:2000:c0e::31    message.bilibili.com
+157.148.134.13    api.bilibili.com
+157.148.134.11    api.bilibili.com
+157.148.134.12    api.bilibili.com
+240e:97d:2000:c0e::34    api.bilibili.com
+240e:97d:10:1402:0:1:1:38    api.bilibili.com
+240e:97d:10:1402:0:1:1:39    api.bilibili.com
+240e:97d:10:1402:0:1:1:40    api.bilibili.com
+240e:97d:10:1402:0:1:1:41    api.bilibili.com
+240e:97d:10:1402:0:1:1:42    api.bilibili.com
+240e:97d:2000:c0e::30"    api.bilibili.com
+240e:97d:2000:c0e::31    api.bilibili.com
+157.148.134.13    api.vc.bilibili.com
+157.148.134.11    api.vc.bilibili.com
+157.148.134.12    api.vc.bilibili.com
+240e:97d:2000:c0e::34    api.vc.bilibili.com
+240e:97d:10:1402:0:1:1:38    api.vc.bilibili.com
+240e:97d:10:1402:0:1:1:39    api.vc.bilibili.com
+240e:97d:10:1402:0:1:1:40    api.vc.bilibili.com
+240e:97d:10:1402:0:1:1:41    api.vc.bilibili.com
+240e:97d:10:1402:0:1:1:42    api.vc.bilibili.com
+240e:97d:2000:c0e::30"    api.vc.bilibili.com
+240e:97d:2000:c0e::31    api.vc.bilibili.com
+122.195.90.184    broadcast.chat.bilibili.com
+122.195.90.185    broadcast.chat.bilibili.com
+122.195.90.186    broadcast.chat.bilibili.com
+122.195.90.187    broadcast.chat.bilibili.com
+122.195.90.188    broadcast.chat.bilibili.com
+122.195.90.189    broadcast.chat.bilibili.com
+122.195.90.151    broadcast.chat.bilibili.com
+122.195.90.152    broadcast.chat.bilibili.com
+122.195.90.153    broadcast.chat.bilibili.com
+122.195.90.154    broadcast.chat.bilibili.com
+122.195.90.155    broadcast.chat.bilibili.com
+122.195.90.156    broadcast.chat.bilibili.com
+122.195.90.157    broadcast.chat.bilibili.com
+122.195.90.158    broadcast.chat.bilibili.com
+122.195.90.159    broadcast.chat.bilibili.com
+122.195.90.160    broadcast.chat.bilibili.com
+122.195.90.161    broadcast.chat.bilibili.com
+122.195.90.162    broadcast.chat.bilibili.com
+122.195.90.163    broadcast.chat.bilibili.com
+122.195.90.164    broadcast.chat.bilibili.com
