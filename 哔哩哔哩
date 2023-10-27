@@ -34,7 +34,7 @@
 240e:97d:10:1402:0:1:1:40    www.bilibili.com
 240e:97d:10:1402:0:1:1:41    www.bilibili.com
 240e:97d:10:1402:0:1:1:42    www.bilibili.com
-240e:97d:2000:c0e::30"    www.bilibili.com
+240e:97d:2000:c0e::30    www.bilibili.com
 240e:97d:2000:c0e::31    www.bilibili.com
 157.148.134.13    t.bilibili.com
 157.148.134.11    t.bilibili.com
@@ -45,7 +45,7 @@
 240e:97d:10:1402:0:1:1:40    t.bilibili.com
 240e:97d:10:1402:0:1:1:41    t.bilibili.com
 240e:97d:10:1402:0:1:1:42    t.bilibili.com
-240e:97d:2000:c0e::30"    t.bilibili.com
+240e:97d:2000:c0e::30    t.bilibili.com
 240e:97d:2000:c0e::31    t.bilibili.com
 157.148.134.13    message.bilibili.com
 157.148.134.11    message.bilibili.com
@@ -56,7 +56,7 @@
 240e:97d:10:1402:0:1:1:40    message.bilibili.com
 240e:97d:10:1402:0:1:1:41    message.bilibili.com
 240e:97d:10:1402:0:1:1:42    message.bilibili.com
-240e:97d:2000:c0e::30"    message.bilibili.com
+240e:97d:2000:c0e::30    message.bilibili.com
 240e:97d:2000:c0e::31    message.bilibili.com
 157.148.134.13    api.bilibili.com
 157.148.134.11    api.bilibili.com
@@ -67,7 +67,7 @@
 240e:97d:10:1402:0:1:1:40    api.bilibili.com
 240e:97d:10:1402:0:1:1:41    api.bilibili.com
 240e:97d:10:1402:0:1:1:42    api.bilibili.com
-240e:97d:2000:c0e::30"    api.bilibili.com
+240e:97d:2000:c0e::30    api.bilibili.com
 240e:97d:2000:c0e::31    api.bilibili.com
 157.148.134.13    api.vc.bilibili.com
 157.148.134.11    api.vc.bilibili.com
@@ -78,7 +78,7 @@
 240e:97d:10:1402:0:1:1:40    api.vc.bilibili.com
 240e:97d:10:1402:0:1:1:41    api.vc.bilibili.com
 240e:97d:10:1402:0:1:1:42    api.vc.bilibili.com
-240e:97d:2000:c0e::30"    api.vc.bilibili.com
+240e:97d:2000:c0e::30    api.vc.bilibili.com
 240e:97d:2000:c0e::31    api.vc.bilibili.com
 122.195.90.184    broadcast.chat.bilibili.com
 122.195.90.185    broadcast.chat.bilibili.com
