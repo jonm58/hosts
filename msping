@@ -48,6 +48,12 @@
 211.239.236.25	www.msftconnecttest.com
 2.16.172.203	www.msftconnecttest.com
 184.51.252.158	www.msftconnecttest.com
+2600:140b:10::174e:8db1		ipv6.msftconnecttest.com
+2600:140b:10::174e:8da1		ipv6.msftconnecttest.com
+2600:1417:7800::685b:45b3	ipv6.msftconnecttest.com
+2600:1417:7800::685b:457a	ipv6.msftconnecttest.com
+2600:1417:7800::685b:45b3	ipv6.msftconnecttest.com
+2600:1417:7800::685b:457a	ipv6.msftconnecttest.com
 202.89.233.96	www.msn.cn
 204.79.197.235	www.msn.cn
 117.21.204.45	assets.msn.cn
