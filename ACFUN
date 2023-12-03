@@ -16,6 +16,34 @@
 110.52.117.46	ali-imgs.acfun.cn
 110.52.117.47	ali-imgs.acfun.cn
 
+182.91.192.91	ali-video.acfun.cn
+182.91.192.96	ali-video.acfun.cn
+182.91.192.94	ali-video.acfun.cn
+182.91.192.97	ali-video.acfun.cn
+182.91.192.92	ali-video.acfun.cn
+182.91.192.93	ali-video.acfun.cn
+182.91.192.98	ali-video.acfun.cn
+182.91.192.95	ali-video.acfun.cn
+119.96.17.19	ali-video.acfun.cn
+119.96.53.217	ali-video.acfun.cn
+219.128.78.188	ali-video.acfun.cn
+219.128.78.147	ali-video.acfun.cn
+119.96.53.222	ali-video.acfun.cn
+119.96.53.216	ali-video.acfun.cn
+119.96.53.219	ali-video.acfun.cn
+119.96.53.221	ali-video.acfun.cn
+119.96.53.220	ali-video.acfun.cn
+119.96.53.218	ali-video.acfun.cn
+119.96.17.20	ali-video.acfun.cn
+119.96.17.43	ali-video.acfun.cn
+
+2408:875c:7000:302:3::3f4	ali-video.acfun.cn
+2408:875c:7000:302:3::3f3	ali-video.acfun.cn
+240e:95c:3004:a:3::185		ali-video.acfun.cn
+240e:cf:8800:0:3::3f5		ali-video.acfun.cn
+240e:cf:8800:0:3::3f4		ali-video.acfun.cn
+240e:95c:3004:a:3::184		ali-video.acfun.cn
+
 121.31.230.228	ali-safety-video.acfun.cn
 121.31.230.234	ali-safety-video.acfun.cn
 121.31.230.230	ali-safety-video.acfun.cn
@@ -48,14 +76,27 @@
 121.31.230.233	www.acfun.cn
 121.31.230.234	www.acfun.cn
 
+39.107.146.21	lab.acfun.cn
+39.106.233.111	lab.acfun.cn
+39.105.227.129	lab.acfun.cn
+
 211.97.81.135	h1.static.yximgs.com
 36.249.92.213	h1.static.yximgs.com
 
-36.248.43.189	static.yximgs.com
-116.162.13.45	static.yximgs.com
-36.249.92.213	static.yximgs.com
-36.248.64.62	static.yximgs.com
-211.97.81.135	static.yximgs.com
+36.248.64.53	static.yximgs.com
+36.248.64.241	static.yximgs.com
+218.24.84.216	static.yximgs.com
+36.248.43.178	static.yximgs.com
+36.248.43.182	static.yximgs.com
+2408:8748:a101:613::8b		static.yximgs.com
+2408:8748:a101:613::8a		static.yximgs.com
+2408:862e:ff:ff02:38::6d	static.yximgs.com
+2408:8748:a101:505:40::e	static.yximgs.com
+2408:8748:a101:505:40::34	static.yximgs.com
+240e:97d:2010:500::d		static.yximgs.com
+240e:982:e600:2100::		static.yximgs.com
+240e:97d:2010:500::c		static.yximgs.com
+240e:97d:2010:500::b		static.yximgs.com
 
 112.90.159.117	log-sdk.ksapisrv.com
 
@@ -77,6 +118,58 @@
 182.89.194.248	cdnfile.aixifan.com
 182.89.194.243	cdnfile.aixifan.com
 
+182.89.194.239	imgs.aixifan.com
+182.89.194.240	imgs.aixifan.com
+182.89.194.241	imgs.aixifan.com
+182.89.194.242	imgs.aixifan.com
+182.89.194.243	imgs.aixifan.com
+182.89.194.244	imgs.aixifan.com
+182.89.194.248	imgs.aixifan.com
+182.89.194.238	imgs.aixifan.com
+121.11.2.66		imgs.aixifan.com
+14.17.68.185	imgs.aixifan.com
+14.17.68.187	imgs.aixifan.com
+14.17.68.189	imgs.aixifan.com
+14.17.68.188	imgs.aixifan.com
+14.17.68.191	imgs.aixifan.com
+14.17.68.190	imgs.aixifan.com
+14.17.68.184	imgs.aixifan.com
+121.11.2.70		imgs.aixifan.com
+
+36.248.43.178	tx-free-imgs.acfun.cn
+218.24.84.216	tx-free-imgs.acfun.cn
+36.248.64.53	tx-free-imgs.acfun.cn
+36.248.64.241	tx-free-imgs.acfun.cn
+36.248.43.182	tx-free-imgs.acfun.cn
+183.134.93.152	tx-free-imgs.acfun.cn
+42.81.26.72		tx-free-imgs.acfun.cn
+124.225.118.135	tx-free-imgs.acfun.cn
+118.183.9.253	tx-free-imgs.acfun.cn
+36.104.150.114	tx-free-imgs.acfun.cn
+119.0.92.210	tx-free-imgs.acfun.cn
+103.105.60.48	tx-free-imgs.acfun.cn
+124.225.14.118	tx-free-imgs.acfun.cn
+124.225.118.212	tx-free-imgs.acfun.cn
+120.71.134.238	tx-free-imgs.acfun.cn
+182.242.215.127	tx-free-imgs.acfun.cn
+122.228.230.93	tx-free-imgs.acfun.cn
+118.180.60.234	tx-free-imgs.acfun.cn
+42.81.26.151	tx-free-imgs.acfun.cn
+42.81.26.62		tx-free-imgs.acfun.cn
+2408:8748:a101:505:40::34	tx-free-imgs.acfun.cn
+2408:8748:a101:613::8a		tx-free-imgs.acfun.cn
+2408:862e:ff:ff02:38::6d	tx-free-imgs.acfun.cn
+2408:8748:a101:505:40::e	tx-free-imgs.acfun.cn
+240e:94c:4000:1601:70::d	tx-free-imgs.acfun.cn
+240e:615:6f0b:2:6c::3		tx-free-imgs.acfun.cn
+240e:615:6f0b:2:6c::38		tx-free-imgs.acfun.cn
+240e:910:e000:b03:46::18	tx-free-imgs.acfun.cn
+240e:914:a003:1:70::11		tx-free-imgs.acfun.cn
+240e:944:9:21::44			tx-free-imgs.acfun.cn
+240e:928:201:e00:64::8		tx-free-imgs.acfun.cn
+240e:928:201:e00:64::6d		tx-free-imgs.acfun.cn
+240e:940:e011:9::54			tx-free-imgs.acfun.cn
+
 36.249.92.213	tx-free-imgs2.acfun.cn
 36.248.43.189	tx-free-imgs2.acfun.cn
 42.56.81.117	tx-free-imgs2.acfun.cn
@@ -94,6 +187,19 @@
 61.54.7.222	tx-free-imgs2.acfun.cn
 59.83.215.220	tx-free-imgs2.acfun.cn
 
+211.97.84.139	tx-video.acfun.cn
+219.135.97.214	tx-video.acfun.cn
+2408:875c:0:80::4e			tx-video.acfun.cn
+240e:f7:4f01:23:60::4a		tx-video.acfun.cn
+240e:90d:1101:450a:67::16	tx-video.acfun.cn
+240e:914:a003:4:70::3		tx-video.acfun.cn
+240e:978:b34:3:70::2		tx-video.acfun.cn
+240e:94c:0:130::122			tx-video.acfun.cn
+240e:914:7:d:64::3			tx-video.acfun.cn
+240e:615:6f0b:1:66::28		tx-video.acfun.cn
+240e:935:a00:106:38::9		tx-video.acfun.cn
+240e:97c:38:913::1c			tx-video.acfun.cn
+      
 211.97.84.139	tx-safety-video.acfun.cn
 58.20.196.126	tx-safety-video.acfun.cn
 36.248.199.240	tx-safety-video.acfun.cn
@@ -124,6 +230,12 @@
 103.102.202.158	ksurl.cn
 103.102.200.16	ksurl.cn
 
+103.102.202.120	upload.kuaishouzt.com
+103.107.217.29	upload.kuaishouzt.com
+103.107.217.66	upload.kuaishouzt.com
+103.107.218.234	upload.kuaishouzt.com
+121.12.76.174	upload.kuaishouzt.com
+
 103.102.202.23	wlog.kuaishou.com
 103.102.202.24	wlog.kuaishou.com
 103.107.219.38	wlog.kuaishou.com
@@ -136,5 +248,8 @@
 103.102.202.118	sixinpic.kuaishou.com
 103.102.202.158	sixinpic.kuaishou.com
 103.102.200.16	sixinpic.kuaishou.com
+
+116.136.202.206	preview.ndcyx.com
+1.180.213.81	preview.ndcyx.com
 
 #Acfun
