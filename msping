@@ -54,6 +54,8 @@
 2600:1417:7800::685b:457a	ipv6.msftconnecttest.com
 2600:1417:7800::685b:45b3	ipv6.msftconnecttest.com
 2600:1417:7800::685b:457a	ipv6.msftconnecttest.com
+131.107.255.255  dns.msftncsi.com
+fd3e:4f5a:5b81::1  dns.msftncsi.com
 202.89.233.96	www.msn.cn
 204.79.197.235	www.msn.cn
 117.21.204.45	assets.msn.cn
