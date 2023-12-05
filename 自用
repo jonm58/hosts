@@ -14,6 +14,22 @@
 2606:50c0:8001::153	res.lolicon.app
 2606:50c0:8002::153	res.lolicon.app
 2606:50c0:8003::153	res.lolicon.app
+185.199.108.153	s.xmcp.ltd
+185.199.109.153	s.xmcp.ltd
+185.199.110.153	s.xmcp.ltd
+185.199.111.153	s.xmcp.ltd
+2606:50c0:8000::153	s.xmcp.ltd
+2606:50c0:8001::153	s.xmcp.ltd
+2606:50c0:8002::153	s.xmcp.ltd
+2606:50c0:8003::153	s.xmcp.ltd
+185.199.108.153	xmcp.github.io
+185.199.109.153	xmcp.github.io
+185.199.110.153	xmcp.github.io
+185.199.111.153	xmcp.github.io
+2606:50c0:8000::153	xmcp.github.io
+2606:50c0:8001::153	xmcp.github.io
+2606:50c0:8002::153	xmcp.github.io
+2606:50c0:8003::153	xmcp.github.io
 
 78.46.123.236	reactos.org
 2a01:4f8:1c17:4aa3::1	reactos.org
@@ -248,6 +264,39 @@
 52.81.118.151	log.reyun.com
 
 153.99.77.20	9939caa41a7d231fb64b240f1b04af7b.h2.smtcdns.net
+
+36.136.112.41	dn-staticdown.qbox.me
+36.150.230.41	dn-staticdown.qbox.me
+39.175.97.41	dn-staticdown.qbox.me
+111.51.130.41	dn-staticdown.qbox.me
+117.162.10.41	dn-staticdown.qbox.me
+120.233.47.200	dn-staticdown.qbox.me
+120.233.75.41	dn-staticdown.qbox.me
+223.68.10.200	dn-staticdown.qbox.me
+183.201.74.41	dn-staticdown.qbox.me
+36.156.187.41	dn-staticdown.qbox.me
+111.174.9.41	dn-staticdown.qbox.me
+220.169.152.41	dn-staticdown.qbox.me
+240e:c3:4000:4::dca9:9829	dn-staticdown.qbox.me
+
+101.6.6.172					ntp.tuna.tsinghua.edu.cn
+2402:f000:1:416:101:6:6:172	ntp.tuna.tsinghua.edu.cn
+
+183.201.74.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+120.221.77.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+111.40.186.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+183.232.149.72	opencdnqiniustaticv6.syscdn.cdnvpn.net
+36.150.230.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+120.222.188.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+120.233.47.200	opencdnqiniustaticv6.syscdn.cdnvpn.net
+112.45.121.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+111.51.130.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+183.240.238.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+220.169.152.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+111.174.9.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+171.214.23.41	opencdnqiniustaticv6.syscdn.cdnvpn.net
+240e:c3:4000:4::dca9:9829		opencdnqiniustaticv6.syscdn.cdnvpn.net
+240e:974:c200:e00::abd6:1829	opencdnqiniustaticv6.syscdn.cdnvpn.net
 
 152.195.38.76	status.geotrust.com
 
