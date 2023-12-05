@@ -294,7 +294,4 @@
 2600:140b:2::1720:f82b		r3.o.lencr.org
 2600:140b:2::1720:f820		r3.o.lencr.org
 
-131.107.255.255  dns.msftncsi.com
-fd3e:4f5a:5b81::1  dns.msftncsi.com
-
 127.0.0.1	swh.app
