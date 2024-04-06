@@ -10,6 +10,9 @@
 18.67.51.80		addons.mozilla.org
 18.67.51.106	addons.mozilla.org
 
+34.107.221.82		detectportal.firefox.com
+2600:1901:0:38d7::	detectportal.firefox.com
+
 34.120.144.202	prod.outgoing.prod.webservices.mozgcp.net
 
 34.111.97.67	developer.mozilla.org
