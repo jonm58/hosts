@@ -30,28 +30,45 @@
 2606:50c0:8001::153	xmcp.github.io
 2606:50c0:8002::153	xmcp.github.io
 2606:50c0:8003::153	xmcp.github.io
+185.199.108.153	clearurls.github.io
+185.199.109.153	clearurls.github.io
+185.199.110.153	clearurls.github.io
+185.199.111.153	clearurls.github.io
+2606:50c0:8000::153	clearurls.github.io
+2606:50c0:8001::153	clearurls.github.io
+2606:50c0:8002::153	clearurls.github.io
+2606:50c0:8003::153	clearurls.github.io
+185.199.108.153	ublockorigin.github.io
+185.199.109.153	ublockorigin.github.io
+185.199.110.153	ublockorigin.github.io
+185.199.111.153	ublockorigin.github.io
+2606:50c0:8000::153	ublockorigin.github.io
+2606:50c0:8001::153	ublockorigin.github.io
+2606:50c0:8002::153	ublockorigin.github.io
+2606:50c0:8003::153	ublockorigin.github.io
 
-78.46.123.236	reactos.org
+
+78.46.123.236			reactos.org
 2a01:4f8:1c17:4aa3::1	reactos.org
-78.46.123.236	www.reactos.org
+78.46.123.236			www.reactos.org
 2a01:4f8:1c17:4aa3::1	www.reactos.org
-138.201.90.89	mail.reactos.org
+138.201.90.89			mail.reactos.org
 2a01:4f8:1c17:5ae1::1	mail.reactos.org
-78.46.247.105	svn.reactos.org
+78.46.247.105			svn.reactos.org
 2a01:4f8:1c17:465a::1	svn.reactos.org
-78.47.192.219	jira.reactos.org
+78.47.192.219			jira.reactos.org
 2a01:4f8:1c17:4ad3::1	jira.reactos.org
-78.46.247.105	ns1.reactos.org
+78.46.247.105			ns1.reactos.org
 2a01:4f8:1c17:465a::1	ns1.reactos.org
-95.216.202.145	ns2.reactos.org
+95.216.202.145			ns2.reactos.org
 2a01:4f9:c010:3a58::1	ns2.reactos.org
-78.46.129.139	chat.reactos.org
+78.46.129.139			chat.reactos.org
 2a01:4f8:1c17:4180::1	chat.reactos.org
-95.216.202.145	iso.reactos.org
+95.216.202.145			iso.reactos.org
 2a01:4f9:c010:3a58::1	iso.reactos.org
-95.216.202.145	doxygen.reactos.org
+95.216.202.145			doxygen.reactos.org
 2a01:4f9:c010:3a58::1	doxygen.reactos.org
-78.46.200.62	ev.reactos.org
+78.46.200.62			ev.reactos.org
 2a01:4f8:1c17:4144::1	ev.reactos.org
 
 182.89.194.239	sr.mihoyo.com
@@ -307,18 +324,6 @@
 240e:914:6:d:3f27:f9a1:f444:fffe		ocsp.globalsign.com
 240e:935:a00:1707:3f27:f9a1:f444:fffe	ocsp.globalsign.com
 
-203.208.40.98				ocsp.pki.goog
-203.208.40.2				ocsp.pki.goog
-203.208.39.194				ocsp.pki.goog
-203.208.43.66				ocsp.pki.goog
-2401:3800:4002:802::1002	ocsp.pki.goog
-2401:3800:4002:800::1002	ocsp.pki.goog
-2401:3800:4002:804::1002	ocsp.pki.goog
-2401:3800:4001:808::1002	ocsp.pki.goog
-2401:3800:4001:807::1002	ocsp.pki.goog
-2401:3800:4001:806::1002	ocsp.pki.goog
-2401:3800:4001:10::1002		ocsp.pki.goog
-
 182.89.192.171	ocsp.digicert.cn
 222.217.94.80	ocsp.digicert.cn
 182.242.63.251	ocsp.digicert.cn
@@ -342,5 +347,11 @@
 2a02:26f0:5d00:6::6011:b3c1	r3.o.lencr.org
 2600:140b:2::1720:f82b		r3.o.lencr.org
 2600:140b:2::1720:f820		r3.o.lencr.org
+
+43.128.240.52	cos.ap-tokyo.myqcloud.com
+43.128.240.44 	wvbimg2-1310561333.cos.ap-tokyo.myqcloud.com
+
+78.129.226.64		privatebin.rinuploads.org
+78.129.226.113		privatebin.rinuploads.org
 
 127.0.0.1	swh.app
