@@ -4,12 +4,13 @@
 
 47.95.165.133	monitor.geetest.com
 
-182.89.194.183	static.geetest.com
-182.89.194.184	static.geetest.com
-182.89.194.185	static.geetest.com
-182.89.194.186	static.geetest.com
-182.89.194.187	static.geetest.com
-182.89.194.180	static.geetest.com
+122.228.66.227	static.geetest.com
+111.170.0.12	static.geetest.com
+1.81.2.103		static.geetest.com
+240e:938:a05:34:3e::e	static.geetest.com
+240e:938:a05:34:3e::f	static.geetest.com
+240e:938:a03:d00:62::48	static.geetest.com
+240e:938:a05:34:3e::b	static.geetest.com
 
 182.91.251.228	activity.hdslb.com
 182.91.251.224	activity.hdslb.com
@@ -61,14 +62,29 @@
 240e:900:0:403::6d		boss.hdslb.com
 240e:900:0:403::6b		boss.hdslb.com
 
-182.89.194.242	static.hdslb.com
-182.89.194.238	static.hdslb.com
-182.89.194.244	static.hdslb.com
-182.89.194.241	static.hdslb.com
-182.89.194.243	static.hdslb.com
-182.89.194.240	static.hdslb.com
-182.89.194.239	static.hdslb.com
-182.89.194.248	static.hdslb.com
+121.31.237.233	static.hdslb.com
+121.31.237.226	static.hdslb.com
+121.31.237.227	static.hdslb.com
+121.31.237.228	static.hdslb.com
+121.31.237.229	static.hdslb.com
+121.31.237.230	static.hdslb.com
+121.31.237.231	static.hdslb.com
+121.31.237.232	static.hdslb.com
+
+111.123.55.139	activity.hdslb.com
+124.225.45.225	activity.hdslb.com
+113.96.179.240	activity.hdslb.com
+111.123.55.140	activity.hdslb.com
+124.225.45.226	activity.hdslb.com
+111.123.55.141	activity.hdslb.com
+124.225.45.227	activity.hdslb.com
+111.123.55.142	activity.hdslb.com
+124.225.45.228	activity.hdslb.com
+111.123.55.135	activity.hdslb.com
+111.123.55.136	activity.hdslb.com
+111.123.55.137	activity.hdslb.com
+240e:938:a03:200:3::3d3	activity.hdslb.com
+240e:938:a03:200:3::3d4	activity.hdslb.com
 
 112.194.65.77	bimp.hdslb.com
 182.89.194.238	bimp.hdslb.com
@@ -124,16 +140,38 @@
 2408:8756:d0fe:15::29	s2.hdslb.com
 2408:8756:d0fe:15::2b	s2.hdslb.com
 
-182.89.194.186	i0.hdslb.com
-182.89.194.182	i0.hdslb.com
-182.89.194.181	i0.hdslb.com
-182.89.194.185	i0.hdslb.com
-182.89.194.187	i0.hdslb.com
-182.89.194.183	i0.hdslb.com
-182.89.194.184	i0.hdslb.com
-182.89.194.180	i0.hdslb.com
-2408:875c:5000:203:3::3ef		i0.hdslb.com
-2408:875c:5000:203:3::3ee		i0.hdslb.com
+121.31.230.204	i0.hdslb.com
+121.31.230.205	i0.hdslb.com
+121.31.230.216	i0.hdslb.com
+121.31.230.217	i0.hdslb.com
+121.31.230.218	i0.hdslb.com
+121.31.230.219	i0.hdslb.com
+121.31.230.220	i0.hdslb.com
+121.31.230.221	i0.hdslb.com
+125.88.144.210	i0.hdslb.com
+183.56.172.204	i0.hdslb.com
+14.215.55.226	i0.hdslb.com
+119.147.50.236	i0.hdslb.com
+121.14.84.235	i0.hdslb.com
+124.225.36.230	i0.hdslb.com
+113.108.75.177	i0.hdslb.com
+124.225.36.233	i0.hdslb.com
+124.225.36.232	i0.hdslb.com
+121.14.84.234	i0.hdslb.com
+119.147.50.233	i0.hdslb.com
+119.147.50.238	i0.hdslb.com
+119.147.50.234	i0.hdslb.com
+14.215.55.206	i0.hdslb.com
+14.215.55.224	i0.hdslb.com
+14.215.55.207	i0.hdslb.com
+2408:875c:3000:6:3::3fb		i0.hdslb.com
+2408:875c:5000:203:3::3ee	i0.hdslb.com
+2408:875c:5000:203:3::3ef	i0.hdslb.com
+2408:875c:3000:6:3::3fa		i0.hdslb.com
+240e:97d:200c:700:3::3f7	i0.hdslb.com
+240e:97c:4040:0:3::7f2		i0.hdslb.com
+240e:97d:200c:a00:3::3e6	i0.hdslb.com
+240e:ff:d188:700:3::3fa		i0.hdslb.com
 
 163.177.219.45		i1.hdslb.com
 163.177.219.43		i1.hdslb.com
@@ -1011,4 +1049,3 @@
 49.7.149.118	ali-web-player-tracker.biliapi.net
 106.38.180.240	ali-web-player-tracker.biliapi.net
 49.7.88.7	ali-web-player-tracker.biliapi.net
-#哔哩哔哩IP
