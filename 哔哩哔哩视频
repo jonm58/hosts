@@ -87,43 +87,91 @@
 2408:8752:e00:b8::145    upos-sz-mirrorcos.bilivideo.com
 2408:8706:0:402::4b      upos-sz-mirrorcos.bilivideo.com
 
-59.55.137.249
-117.44.77.80
-117.40.82.76
-59.55.137.251
-59.55.137.248
-59.55.137.198
-116.162.124.4
-116.162.124.9
-182.254.59.187
-182.254.59.190
-43.141.69.138
-182.254.59.207
-182.254.59.231
-182.254.59.235
-182.254.60.82
-182.254.59.154
-182.254.59.192
-182.254.59.191
-43.141.69.172
-182.254.59.186
-240e:c2:1800:c6:10e::a
-240e:c2:1800:c3:90::9
-240e:c2:1800:c3:90::a
-240e:c2:1800:c6:10e::2
-240e:c2:1800:c3:90::4
-240e:c2:1800:c4:ba::4
-240e:c2:1800:c3:90::8
-240e:c2:1800:c4:ba::e
-240e:c2:1800:c6:10e::4
-2408:8752:e00:93:90::4
+59.55.137.249              upos-sz-mirrorcosb.bilivideo.com
+117.44.77.80               upos-sz-mirrorcosb.bilivideo.com
+117.40.82.76               upos-sz-mirrorcosb.bilivideo.com
+59.55.137.251              upos-sz-mirrorcosb.bilivideo.com
+59.55.137.248              upos-sz-mirrorcosb.bilivideo.com
+59.55.137.198              upos-sz-mirrorcosb.bilivideo.com
+116.162.124.4              upos-sz-mirrorcosb.bilivideo.com
+116.162.124.9              upos-sz-mirrorcosb.bilivideo.com
+182.254.59.187             upos-sz-mirrorcosb.bilivideo.com
+182.254.59.190             upos-sz-mirrorcosb.bilivideo.com
+43.141.69.138              upos-sz-mirrorcosb.bilivideo.com
+182.254.59.207             upos-sz-mirrorcosb.bilivideo.com
+182.254.59.231             upos-sz-mirrorcosb.bilivideo.com
+182.254.59.235             upos-sz-mirrorcosb.bilivideo.com
+182.254.60.82              upos-sz-mirrorcosb.bilivideo.com
+182.254.59.154             upos-sz-mirrorcosb.bilivideo.com
+182.254.59.192             upos-sz-mirrorcosb.bilivideo.com
+182.254.59.191             upos-sz-mirrorcosb.bilivideo.com
+43.141.69.172              upos-sz-mirrorcosb.bilivideo.com
+182.254.59.186             upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c6:10e::a     upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c3:90::9      upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c3:90::a      upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c6:10e::2     upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c3:90::4      upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c4:ba::4      upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c3:90::8      upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c4:ba::e      upos-sz-mirrorcosb.bilivideo.com
+240e:c2:1800:c6:10e::4     upos-sz-mirrorcosb.bilivideo.com
+2408:8752:e00:93:90::4     upos-sz-mirrorcosb.bilivideo.com
 2408:8752:e00:99:18c::d    upos-sz-mirrorcosb.bilivideo.com
 2408:8752:e00:93:90::6     upos-sz-mirrorcosb.bilivideo.com
 2408:8752:e00:93:90::2     upos-sz-mirrorcosb.bilivideo.com
-2408:8752:e00:93:90::3
-2408:8752:e00:91:3a::3
-2408:8752:e00:93:90::7
-2408:8752:e00:93:90::5
-2408:8752:e00:95:e4::e
-2402:4e00:c2:10e8::3
-2402:4e00:c2:10f4::3
+2408:8752:e00:93:90::3     upos-sz-mirrorcosb.bilivideo.com
+2408:8752:e00:91:3a::3     upos-sz-mirrorcosb.bilivideo.com
+2408:8752:e00:93:90::7     upos-sz-mirrorcosb.bilivideo.com
+2408:8752:e00:93:90::5     upos-sz-mirrorcosb.bilivideo.com
+2408:8752:e00:95:e4::e     upos-sz-mirrorcosb.bilivideo.com
+2402:4e00:c2:10e8::3       upos-sz-mirrorcosb.bilivideo.com
+2402:4e00:c2:10f4::3       upos-sz-mirrorcosb.bilivideo.com
+
+220.169.152.41  upos-sz-mirrorbos.bilivideo.com
+
+14.152.112.26              upos-sz-mirrorhw.bilivideo.com
+183.61.184.193             upos-sz-mirrorhw.bilivideo.com
+14.152.112.28              upos-sz-mirrorhw.bilivideo.com
+183.61.184.194             upos-sz-mirrorhw.bilivideo.com
+183.61.184.195             upos-sz-mirrorhw.bilivideo.com
+14.152.112.27              upos-sz-mirrorhw.bilivideo.com
+183.61.184.196             upos-sz-mirrorhw.bilivideo.com
+222.199.191.41             upos-sz-mirrorhw.bilivideo.com
+171.105.187.71             upos-sz-mirrorhw.bilivideo.com
+171.105.187.72             upos-sz-mirrorhw.bilivideo.com
+39.135.71.91               upos-sz-mirrorhw.bilivideo.com
+39.135.71.89               upos-sz-mirrorhw.bilivideo.com
+121.194.10.211             upos-sz-mirrorhw.bilivideo.com
+240e:97e:7000:1001::b      upos-sz-mirrorhw.bilivideo.com
+240e:97e:7000:1001::a      upos-sz-mirrorhw.bilivideo.com
+240e:97e:7000:1001::c      upos-sz-mirrorhw.bilivideo.com
+240e:951:2c10:800::6       upos-sz-mirrorhw.bilivideo.com
+240e:951:2c10:800::7       upos-sz-mirrorhw.bilivideo.com
+240c:c0a9:1000:1::8        upos-sz-mirrorhw.bilivideo.com
+2409:8087:40f:10:6000::80  upos-sz-mirrorhw.bilivideo.com
+240c:c0a9:1000:1::8        upos-sz-mirrorhw.bilivideo.com
+2409:8087:40f:10:6000::82  upos-sz-mirrorhw.bilivideo.com
+
+14.152.112.26              upos-sz-mirrorhwb.bilivideo.com
+183.61.184.193             upos-sz-mirrorhwb.bilivideo.com
+14.152.112.28              upos-sz-mirrorhwb.bilivideo.com
+183.61.184.194             upos-sz-mirrorhwb.bilivideo.com
+183.61.184.195             upos-sz-mirrorhwb.bilivideo.com
+14.152.112.27              upos-sz-mirrorhwb.bilivideo.com
+183.61.184.196             upos-sz-mirrorhwb.bilivideo.com
+222.199.191.41             upos-sz-mirrorhwb.bilivideo.com
+171.105.187.71             upos-sz-mirrorhwb.bilivideo.com
+171.105.187.72             upos-sz-mirrorhwb.bilivideo.com
+39.135.71.91               upos-sz-mirrorhwb.bilivideo.com
+39.135.71.89               upos-sz-mirrorhwb.bilivideo.com
+121.194.10.211             upos-sz-mirrorhwb.bilivideo.com
+240e:97e:7000:1001::b      upos-sz-mirrorhwb.bilivideo.com
+240e:97e:7000:1001::a      upos-sz-mirrorhwb.bilivideo.com
+240e:97e:7000:1001::c      upos-sz-mirrorhwb.bilivideo.com
+240e:951:2c10:800::6       upos-sz-mirrorhwb.bilivideo.com
+240e:951:2c10:800::7       upos-sz-mirrorhwb.bilivideo.com
+240c:c0a9:1000:1::8        upos-sz-mirrorhwb.bilivideo.com
+2409:8087:40f:10:6000::80  upos-sz-mirrorhwb.bilivideo.com
+240c:c0a9:1000:1::8        upos-sz-mirrorhwb.bilivideo.com
+2409:8087:40f:10:6000::82  upos-sz-mirrorhwb.bilivideo.com
