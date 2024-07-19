@@ -75,8 +75,30 @@
 204.79.197.200	cn.bing.com
 13.107.21.200	cn.bing.com
 
-219.232.81.201	is1-ssl.mzstatic.com
-182.91.255.213	is1-ssl.mzstatic.com
+182.91.255.213	         is1-ssl.mzstatic.com
+219.232.81.201	         is1-ssl.mzstatic.com
+95.100.244.21            is1-ssl.mzstatic.com
+171.214.31.1             is1-ssl.mzstatic.com
+175.6.254.65             is1-ssl.mzstatic.com
+42.56.77.1               is1-ssl.mzstatic.com
+113.16.211.2             is1-ssl.mzstatic.com
+121.17.252.8             is1-ssl.mzstatic.com
+118.112.233.1            is1-ssl.mzstatic.com
+2600:140e:6:db7::2a1     is1-ssl.mzstatic.com
+2600:140e:6:da7::2a1     is1-ssl.mzstatic.com
+2600:140e:6:da5::2a1     is1-ssl.mzstatic.com
+2600:140e:6:d8a::2a1     is1-ssl.mzstatic.com
+2600:140e:6:d90::2a1     is1-ssl.mzstatic.com
+2600:1417:4400:3ba::2a1  is1-ssl.mzstatic.com
+2600:1417:4400:398::2a1  is1-ssl.mzstatic.com
+2a02:26f0:e8:4a7::2a1    is1-ssl.mzstatic.com
+2600:1417:4400:3bc::2a1  is1-ssl.mzstatic.com
+2600:1417:4400:39d::2a1  is1-ssl.mzstatic.com
+2600:1417:4400:39e::2a1  is1-ssl.mzstatic.com
+2a02:26f0:e8:486::2a1    is1-ssl.mzstatic.com
+2a02:26f0:e8:494::2a1    is1-ssl.mzstatic.com
+2a02:26f0:e8:482::2a1    is1-ssl.mzstatic.com
+2a02:26f0:e8:4a2::2a1    is1-ssl.mzstatic.com
 
 219.232.81.201	itunes.apple.com
 2.18.84.26		itunes.apple.com
