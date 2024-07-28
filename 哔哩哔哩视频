@@ -1,11 +1,47 @@
 #EDNS:240e:6b0:200::139/182.90.0.0/101.6.6.6
 # //https://github.com/the1812/Bilibili-Evolved/issues/3234#issuecomment-1504764774
 
-117.169.96.231  cn-jxnc-cmcc-bcache-06.bilivideo.com
+117.169.96.226	cn-jxnc-cmcc-bcache-01.bilivideo.com
+117.169.96.227	cn-jxnc-cmcc-bcache-02.bilivideo.com
+117.169.96.228	cn-jxnc-cmcc-bcache-03.bilivideo.com
+117.169.96.229	cn-jxnc-cmcc-bcache-04.bilivideo.com
+117.169.96.230	cn-jxnc-cmcc-bcache-05.bilivideo.com
+117.169.96.231	cn-jxnc-cmcc-bcache-06.bilivideo.com
+117.169.96.232	cn-jxnc-cmcc-bcache-07.bilivideo.com
+117.169.96.233	cn-jxnc-cmcc-bcache-08.bilivideo.com
+117.169.96.234	cn-jxnc-cmcc-bcache-09.bilivideo.com
+117.169.96.235	cn-jxnc-cmcc-bcache-10.bilivideo.com
+117.169.96.236	cn-jxnc-cmcc-bcache-11.bilivideo.com
+117.169.96.237	cn-jxnc-cmcc-bcache-12.bilivideo.com
+117.169.96.247	cn-jxnc-cmcc-bcache-13.bilivideo.com
+117.169.96.248	cn-jxnc-cmcc-bcache-14.bilivideo.com
+117.169.96.249	cn-jxnc-cmcc-bcache-15.bilivideo.com
+117.169.96.250	cn-jxnc-cmcc-bcache-16.bilivideo.com
+117.169.96.251	cn-jxnc-cmcc-bcache-17.bilivideo.com
+117.169.96.252	cn-jxnc-cmcc-bcache-18.bilivideo.com
 
-183.170.158.2  cn-hnzz-fx-01-01.bilivideo.com
+183.170.158.2 	cn-hnzz-fx-01-01.bilivideo.com
+#
+183.170.158.3	cn-hnzz-fx-01-03.bilivideo.com
+#
+183.170.158.4	cn-hnzz-fx-01-05.bilivideo.com
+183.170.158.5	cn-hnzz-fx-01-06.bilivideo.com
+183.170.158.6	cn-hnzz-fx-01-07.bilivideo.com
+183.170.158.7	cn-hnzz-fx-01-08.bilivideo.com
 
-101.206.209.5  cn-sccd-cu-01-04.bilivideo.com
+101.206.209.2	cn-sccd-cu-01-01.bilivideo.com
+101.206.209.3	cn-sccd-cu-01-02.bilivideo.com
+101.206.209.4	cn-sccd-cu-01-03.bilivideo.com
+101.206.209.5	cn-sccd-cu-01-04.bilivideo.com
+101.206.209.6	cn-sccd-cu-01-05.bilivideo.com
+101.206.209.7	cn-sccd-cu-01-06.bilivideo.com
+101.206.209.8	cn-sccd-cu-01-07.bilivideo.com
+101.206.209.9	cn-sccd-cu-01-08.bilivideo.com
+101.206.209.10	cn-sccd-cu-01-09.bilivideo.com
+101.206.209.12	cn-sccd-cu-01-10.bilivideo.com
+101.206.209.12	cn-sccd-cu-01-11.bilivideo.com
+101.206.209.13	cn-sccd-cu-01-12.bilivideo.com
+101.206.209.14	cn-sccd-cu-01-13.bilivideo.com
 
 23.74.15.240		upos-hz-mirrorakam.akamaized.net
 23.74.15.235		upos-hz-mirrorakam.akamaized.net
