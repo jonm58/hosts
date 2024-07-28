@@ -100,6 +100,10 @@
 2409:8087:40f:10:6000::80   upos-sz-mirror08h.bilivideo.com
 240c:c0a9:1000:1::8         upos-sz-mirror08h.bilivideo.com
 
+220.169.152.41  upos-sz-mirrorbos.bilivideo.com
+211.97.83.41    upos-sz-mirrorbos.bilivideo.com
+222.199.191.41  upos-sz-mirrorbos.bilivideo.com
+
 182.40.55.136            upos-sz-mirrorcos.bilivideo.com
 61.240.216.186           upos-sz-mirrorcos.bilivideo.com
 116.162.153.73           upos-sz-mirrorcos.bilivideo.com
@@ -132,6 +136,20 @@
 2408:8752:e00:b6::a14    upos-sz-mirrorcos.bilivideo.com
 2408:8752:e00:b8::145    upos-sz-mirrorcos.bilivideo.com
 2408:8706:0:402::4b      upos-sz-mirrorcos.bilivideo.com
+
+58.251.62.184               upos-sz-mirrorcoso1.bilivideo.com
+58.251.62.186               upos-sz-mirrorcoso1.bilivideo.com
+182.40.55.136               upos-sz-mirrorcoso1.bilivideo.com
+124.167.219.50              upos-sz-mirrorcoso1.bilivideo.com
+124.167.219.51              upos-sz-mirrorcoso1.bilivideo.com
+58.205.214.147              upos-sz-mirrorcoso1.bilivideo.com
+58.205.214.146              upos-sz-mirrorcoso1.bilivideo.com
+58.205.214.157              upos-sz-mirrorcoso1.bilivideo.com
+58.205.214.150              upos-sz-mirrorcoso1.bilivideo.com
+240e:935:a00:10b:38::24     upos-sz-mirrorcoso1.bilivideo.com
+2408:8756:2cff:e410:5e::22  upos-sz-mirrorcoso1.bilivideo.com
+2408:8756:2cff:e410:5e::1f  upos-sz-mirrorcoso1.bilivideo.com
+2408:8706:0:402::4b         upos-sz-mirrorcoso1.bilivideo.com
 
 59.55.137.249              upos-sz-mirrorcosb.bilivideo.com
 117.44.77.80               upos-sz-mirrorcosb.bilivideo.com
@@ -173,10 +191,6 @@
 2408:8752:e00:95:e4::e     upos-sz-mirrorcosb.bilivideo.com
 2402:4e00:c2:10e8::3       upos-sz-mirrorcosb.bilivideo.com
 2402:4e00:c2:10f4::3       upos-sz-mirrorcosb.bilivideo.com
-
-220.169.152.41  upos-sz-mirrorbos.bilivideo.com
-211.97.83.41    upos-sz-mirrorbos.bilivideo.com
-222.199.191.41  upos-sz-mirrorbos.bilivideo.com
 
 113.219.202.126        upos-sz-mirrorcosdisp.bilivideo.com
 116.162.153.190        upos-sz-mirrorcosdisp.bilivideo.com
