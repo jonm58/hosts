@@ -20,22 +20,22 @@
 117.169.96.251	cn-jxnc-cmcc-bcache-17.bilivideo.com
 117.169.96.252	cn-jxnc-cmcc-bcache-18.bilivideo.com
 
-cn-gddg-ct-01-01.bilivideo.com  14.17.92.2
-cn-gddg-ct-01-01.bilivideo.com  240e:97d:10:1402:0:1:1:2
-cn-gddg-ct-01-02.bilivideo.com  14.17.92.3
-cn-gddg-ct-01-02.bilivideo.com  240e:97d:10:1402:0:1:1:3
-cn-gddg-ct-01-03.bilivideo.com    14.17.92.4
-cn-gddg-ct-01-03.bilivideo.com    240e:97d:10:1402:0:1:1:4
-cn-gddg-ct-01-04.bilivideo.com    14.17.92.5
-cn-gddg-ct-01-04.bilivideo.com    240e:97d:10:1402:0:1:1:5
-cn-gddg-ct-01-05.bilivideo.com    14.17.92.6
-cn-gddg-ct-01-05.bilivideo.com    240e:97d:10:1402:0:1:1:6
-cn-gddg-ct-01-06.bilivideo.com    14.17.92.7
-cn-gddg-ct-01-06.bilivideo.com    240e:97d:10:1402:0:1:1:7
-cn-gddg-ct-01-07.bilivideo.com    14.17.92.8
-cn-gddg-ct-01-07.bilivideo.com    240e:97d:10:1402:0:1:1:8
-cn-gddg-ct-01-08.bilivideo.com    14.17.92.9
-cn-gddg-ct-01-08.bilivideo.com    240e:97d:10:1402:0:1:1:9
+14.17.92.2 cn-gddg-ct-01-01.bilivideo.com
+240e:97d:10:1402:0:1:1:2 cn-gddg-ct-01-01.bilivideo.com
+14.17.92.3 cn-gddg-ct-01-02.bilivideo.com
+240e:97d:10:1402:0:1:1:3 cn-gddg-ct-01-02.bilivideo.com
+14.17.92.4 cn-gddg-ct-01-03.bilivideo.com
+240e:97d:10:1402:0:1:1:4 cn-gddg-ct-01-03.bilivideo.com
+14.17.92.5cn-gddg-ct-01-04.bilivideo.com
+240e:97d:10:1402:0:1:1:5cn-gddg-ct-01-04.bilivideo.com 
+14.17.92.6cn-gddg-ct-01-05.bilivideo.com
+240e:97d:10:1402:0:1:1:6cn-gddg-ct-01-05.bilivideo.com
+14.17.92.7cn-gddg-ct-01-06.bilivideo.com
+240e:97d:10:1402:0:1:1:7cn-gddg-ct-01-06.bilivideo.com
+14.17.92.8cn-gddg-ct-01-07.bilivideo.com
+240e:97d:10:1402:0:1:1:8cn-gddg-ct-01-07.bilivideo.com
+14.17.92.9cn-gddg-ct-01-08.bilivideo.com
+240e:97d:10:1402:0:1:1:9cn-gddg-ct-01-08.bilivideo.com
 cn-gddg-ct-01-09.bilivideo.com    14.17.92.10
 cn-gddg-ct-01-09.bilivideo.com    240e:97d:10:1402:0:1:1:10
 cn-gddg-ct-01-10.bilivideo.com    14.17.92.11
@@ -60,28 +60,28 @@ cn-gddg-ct-01-19.bilivideo.com    14.17.92.20
 cn-gddg-ct-01-19.bilivideo.com     240e:97d:10:1402:0:1:1:20
 cn-gddg-ct-01-20.bilivideo.com    14.17.92.21
 cn-gddg-ct-01-20.bilivideo.com     240e:97d:10:1402:0:1:1:21
-cn-gddg-ct-01-21.bilivideo.com    14.17.92.22
-cn-gddg-ct-01-21.bilivideo.com    240e:97d:10:1402:0:1:1:22
-cn-gddg-ct-01-22.bilivideo.com    14.17.92.23
-cn-gddg-ct-01-22.bilivideo.com    240e:97d:10:1402:0:1:1:23
-cn-gddg-ct-01-23.bilivideo.com    14.17.92.24
-cn-gddg-ct-01-23.bilivideo.com    240e:97d:10:1402:0:1:1:24
-cn-gddg-ct-01-24.bilivideo.com    14.17.92.25
-cn-gddg-ct-01-24.bilivideo.com    240e:97d:10:1402:0:1:1:25
-cn-gddg-ct-01-25.bilivideo.com    14.17.92.26
-cn-gddg-ct-01-25.bilivideo.com    240e:97d:10:1402:0:1:1:26
-cn-gddg-ct-01-26.bilivideo.com    14.17.92.27
-cn-gddg-ct-01-26.bilivideo.com    240e:97d:10:1402:0:1:1:27
-cn-gddg-ct-01-27.bilivideo.com    14.17.92.64
-cn-gddg-ct-01-28.bilivideo.com    14.17.92.65
-cn-gddg-ct-01-29.bilivideo.com    14.17.92.66
-cn-gddg-ct-01-30.bilivideo.com    14.17.92.67
-cn-gddg-ct-01-31.bilivideo.com    14.17.92.68
-cn-gddg-ct-01-32.bilivideo.com    14.17.92.69
-cn-gddg-ct-01-33.bilivideo.com    14.17.92.56
-cn-gddg-ct-01-34.bilivideo.com    14.17.92.26
-cn-gddg-ct-01-35.bilivideo.com    14.17.92.27
-cn-gddg-ct-01-36.bilivideo.com    14.17.92.55
+14.17.92.22 cn-gddg-ct-01-21.bilivideo.com
+240e:97d:10:1402:0:1:1:22 cn-gddg-ct-01-21.bilivideo.com
+14.17.92.23 cn-gddg-ct-01-22.bilivideo.com
+240e:97d:10:1402:0:1:1:23 cn-gddg-ct-01-22.bilivideo.com
+14.17.92.24 cn-gddg-ct-01-23.bilivideo.com
+240e:97d:10:1402:0:1:1:24 cn-gddg-ct-01-23.bilivideo.com
+14.17.92.25 cn-gddg-ct-01-24.bilivideo.com
+240e:97d:10:1402:0:1:1:25 cn-gddg-ct-01-24.bilivideo.com
+14.17.92.26 cn-gddg-ct-01-25.bilivideo.com
+240e:97d:10:1402:0:1:1:26 cn-gddg-ct-01-25.bilivideo.com
+14.17.92.27 cn-gddg-ct-01-26.bilivideo.com
+240e:97d:10:1402:0:1:1:27 cn-gddg-ct-01-26.bilivideo.com
+14.17.92.64 cn-gddg-ct-01-27.bilivideo.com 
+14.17.92.65 cn-gddg-ct-01-28.bilivideo.com
+14.17.92.66 cn-gddg-ct-01-29.bilivideo.com
+14.17.92.67 cn-gddg-ct-01-30.bilivideo.com
+14.17.92.68 cn-gddg-ct-01-31.bilivideo.com
+14.17.92.69 cn-gddg-ct-01-32.bilivideo.com
+14.17.92.56 cn-gddg-ct-01-33.bilivideo.com
+14.17.92.26 cn-gddg-ct-01-34.bilivideo.com
+14.17.92.27 cn-gddg-ct-01-35.bilivideo.com
+14.17.92.55 cn-gddg-ct-01-36.bilivideo.com
 
 cn-gddg-cu-01-02.bilivideo.com    157.148.134.3
 cn-gddg-cu-01-02.bilivideo.com    2408:8756:d0fe:300::3
