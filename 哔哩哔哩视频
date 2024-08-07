@@ -26,7 +26,7 @@
 240e:97d:10:1402:0:1:1:3 cn-gddg-ct-01-02.bilivideo.com
 14.17.92.4 cn-gddg-ct-01-03.bilivideo.com
 240e:97d:10:1402:0:1:1:4 cn-gddg-ct-01-03.bilivideo.com
-14.17.92.5cn-gddg-ct-01-04.bilivideo.com
+14.17.92.5  cn-gddg-ct-01-04.bilivideo.com
 240e:97d:10:1402:0:1:1:5cn-gddg-ct-01-04.bilivideo.com 
 14.17.92.6 cn-gddg-ct-01-05.bilivideo.com
 240e:97d:10:1402:0:1:1:6 cn-gddg-ct-01-05.bilivideo.com
@@ -107,59 +107,59 @@
 157.148.134.18 cn-gddg-cu-01-14.bilivideo.com
 157.148.134.19 cn-gddg-cu-01-15.bilivideo.com
 
-cn-gddg-cm-01-02.bilivideo.com    183.232.239.3
-cn-gddg-cm-01-02.bilivideo.com    2409:8c54:1841:2002::3
-cn-gddg-cm-01-03.bilivideo.com    183.232.239.4
-cn-gddg-cm-01-03.bilivideo.com    2409:8c54:1841:2002::4
-cn-gddg-cm-01-04.bilivideo.com    183.232.239.5
-cn-gddg-cm-01-04.bilivideo.com    2409:8c54:1841:2002::5
-cn-gddg-cm-01-05.bilivideo.com    183.232.239.6
-cn-gddg-cm-01-05.bilivideo.com    2409:8c54:1841:2002::6
-cn-gddg-cm-01-06.bilivideo.com    183.232.239.7
-cn-gddg-cm-01-06.bilivideo.com    2409:8c54:1841:2002::7
-cn-gddg-cm-01-10.bilivideo.com    183.232.239.15
-cn-gddg-cm-01-10.bilivideo.com    2409:8c54:1841:2002::14
-cn-gddg-cm-01-11.bilivideo.com    183.232.239.16
-cn-gddg-cm-01-11.bilivideo.com    2409:8c54:1841:2002::15
-cn-gddg-cm-01-12.bilivideo.com    183.232.239.17
-cn-gddg-cm-01-12.bilivideo.com    2409:8c54:1841:2002::16
-cn-gddg-cm-01-13.bilivideo.com    183.232.239.13
-cn-gddg-cm-01-14.bilivideo.com    183.232.239.14
+183.232.239.3  cn-gddg-cm-01-02.bilivideo.com
+2409:8c54:1841:2002::3  cn-gddg-cm-01-02.bilivideo.com
+183.232.239.4  cn-gddg-cm-01-03.bilivideo.com
+2409:8c54:1841:2002::4  cn-gddg-cm-01-03.bilivideo.com
+183.232.239.5  cn-gddg-cm-01-04.bilivideo.com
+2409:8c54:1841:2002::5 cn-gddg-cm-01-04.bilivideo.com 
+183.232.239.6  cn-gddg-cm-01-05.bilivideo.com
+2409:8c54:1841:2002::6  cn-gddg-cm-01-05.bilivideo.com
+183.232.239.7  cn-gddg-cm-01-06.bilivideo.com
+2409:8c54:1841:2002::7  cn-gddg-cm-01-06.bilivideo.com
+183.232.239.15  cn-gddg-cm-01-10.bilivideo.com
+2409:8c54:1841:2002::14  cn-gddg-cm-01-10.bilivideo.com
+183.232.239.16  cn-gddg-cm-01-11.bilivideo.com
+2409:8c54:1841:2002::15  cn-gddg-cm-01-11.bilivideo.com
+183.232.239.17  cn-gddg-cm-01-12.bilivideo.com
+2409:8c54:1841:2002::16  cn-gddg-cm-01-12.bilivideo.com
+183.232.239.13  cn-gddg-cm-01-13.bilivideo.com
+183.232.239.14  cn-gddg-cm-01-14.bilivideo.com
 
-cn-gdst-cm-01-01.bilivideo.com    120.240.74.34
-cn-gdst-cm-01-01.bilivideo.com    2409:8c54:2810:9105::2
-cn-gdst-cm-01-02.bilivideo.com    120.240.74.35
-cn-gdst-cm-01-02.bilivideo.com    2409:8c54:2810:9105::3
-cn-gdst-cm-01-03.bilivideo.com    120.240.74.36
-cn-gdst-cm-01-03.bilivideo.com    2409:8c54:2810:9105::4
-cn-gdst-cm-01-04.bilivideo.com    120.240.74.37
-cn-gdst-cm-01-04.bilivideo.com    2409:8c54:2810:9105::5
-cn-gdst-cm-01-05.bilivideo.com    120.240.74.38
-cn-gdst-cm-01-05.bilivideo.com    2409:8c54:2810:9105::6
-cn-gdst-cm-01-06.bilivideo.com    120.240.74.39
-cn-gdst-cm-01-06.bilivideo.com    2409:8c54:2810:9105::7
-cn-gdst-cm-01-07.bilivideo.com    120.240.74.40
-cn-gdst-cm-01-07.bilivideo.com    2409:8c54:2810:9105::8
-cn-gdst-cm-01-08.bilivideo.com    120.240.74.41
-cn-gdst-cm-01-08.bilivideo.com    2409:8c54:2810:9105::9
-cn-gdst-cm-01-09.bilivideo.com    120.240.74.42
-cn-gdst-cm-01-09.bilivideo.com    2409:8c54:2810:9105::10
-cn-gdst-cm-01-10.bilivideo.com    120.240.74.43
-cn-gdst-cm-01-10.bilivideo.com    2409:8c54:2810:9105::11
-cn-gdst-cm-01-11.bilivideo.com    120.240.75.135
-cn-gdst-cm-01-11.bilivideo.com    2409:8c54:2810:9105::20
-cn-gdst-cm-01-12.bilivideo.com    120.240.75.136
-cn-gdst-cm-01-12.bilivideo.com    2409:8c54:2810:9105::21
-cn-gdst-cm-01-13.bilivideo.com    120.240.75.137
-cn-gdst-cm-01-13.bilivideo.com    2409:8c54:2810:9105::22
-cn-gdst-cm-01-14.bilivideo.com    120.240.75.138
-cn-gdst-cm-01-14.bilivideo.com    2409:8c54:2810:9105::23
-cn-gdst-cm-01-15.bilivideo.com    120.240.75.139
-cn-gdst-cm-01-15.bilivideo.com    2409:8c54:2810:9105::24
-120.240.75.141 cn-gdst-cm-01-16.bilivideo.com    
-120.240.75.142 cn-gdst-cm-01-17.bilivideo.com    
+cn-gdst-cm-01-01.bilivideo.com120.240.74.34
+cn-gdst-cm-01-01.bilivideo.com2409:8c54:2810:9105::2
+cn-gdst-cm-01-02.bilivideo.com120.240.74.35
+cn-gdst-cm-01-02.bilivideo.com2409:8c54:2810:9105::3
+cn-gdst-cm-01-03.bilivideo.com120.240.74.36
+cn-gdst-cm-01-03.bilivideo.com2409:8c54:2810:9105::4
+cn-gdst-cm-01-04.bilivideo.com120.240.74.37
+cn-gdst-cm-01-04.bilivideo.com2409:8c54:2810:9105::5
+cn-gdst-cm-01-05.bilivideo.com120.240.74.38
+cn-gdst-cm-01-05.bilivideo.com2409:8c54:2810:9105::6
+cn-gdst-cm-01-06.bilivideo.com120.240.74.39
+cn-gdst-cm-01-06.bilivideo.com2409:8c54:2810:9105::7
+cn-gdst-cm-01-07.bilivideo.com120.240.74.40
+cn-gdst-cm-01-07.bilivideo.com2409:8c54:2810:9105::8
+cn-gdst-cm-01-08.bilivideo.com120.240.74.41
+cn-gdst-cm-01-08.bilivideo.com2409:8c54:2810:9105::9
+cn-gdst-cm-01-09.bilivideo.com120.240.74.42
+cn-gdst-cm-01-09.bilivideo.com2409:8c54:2810:9105::10
+cn-gdst-cm-01-10.bilivideo.com120.240.74.43
+cn-gdst-cm-01-10.bilivideo.com2409:8c54:2810:9105::11
+cn-gdst-cm-01-11.bilivideo.com120.240.75.135
+cn-gdst-cm-01-11.bilivideo.com2409:8c54:2810:9105::20
+cn-gdst-cm-01-12.bilivideo.com120.240.75.136
+cn-gdst-cm-01-12.bilivideo.com2409:8c54:2810:9105::21
+cn-gdst-cm-01-13.bilivideo.com120.240.75.137
+cn-gdst-cm-01-13.bilivideo.com2409:8c54:2810:9105::22
+cn-gdst-cm-01-14.bilivideo.com120.240.75.138
+cn-gdst-cm-01-14.bilivideo.com2409:8c54:2810:9105::23
+cn-gdst-cm-01-15.bilivideo.com120.240.75.139
+cn-gdst-cm-01-15.bilivideo.com2409:8c54:2810:9105::24
+120.240.75.141 cn-gdst-cm-01-16.bilivideo.com
+120.240.75.142 cn-gdst-cm-01-17.bilivideo.com
 
-43.243.247.226 cn-gdgz-gd-01-01.bilivideo.com    
+43.243.247.226 cn-gdgz-gd-01-01.bilivideo.com
 43.243.247.228 cn-gdgz-gd-01-02.bilivideo.com
 43.243.247.230 cn-gdgz-gd-01-03.bilivideo.com
 43.243.247.232 cn-gdgz-gd-01-04.bilivideo.com
